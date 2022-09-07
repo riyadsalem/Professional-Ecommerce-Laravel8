@@ -1,4 +1,3 @@
-# Professional-Ecommerce-Laravel8
 ![image](https://user-images.githubusercontent.com/64443244/178146410-4ab4c758-2825-4644-bde4-55e8ab66df4a.png)
 ![image](https://user-images.githubusercontent.com/64443244/178146433-b23a0e0f-ffe3-46f8-8779-154a63648f01.png)
 ![image](https://user-images.githubusercontent.com/64443244/178146444-8438d9b6-7aeb-4531-9037-da2d1d166784.png)
